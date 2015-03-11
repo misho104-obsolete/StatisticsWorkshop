@@ -1,0 +1,19 @@
+#  Example file for significance calculation with runSigCalc
+#
+# n = observed number of events
+#
+28
+#
+#  s = expected number of events for the nominal signal model
+#
+   17
+#
+#  m_i = number of events found in background control region i
+#  tau_i scale factor such that m_i ~ Poisson(tau_i*b_i)
+#
+#  m_i        tau_i
+#
+   8          2.0
+   3          1.0
+   1          0.5
+   0          1.0
